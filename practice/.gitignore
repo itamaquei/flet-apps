@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 day3\venv
+practice\gues_me_game.py
+practice\hw.py
